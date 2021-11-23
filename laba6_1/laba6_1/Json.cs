@@ -1,8 +1,8 @@
 ﻿using System;
 
-namespace Task1
+namespace laba6_1
 {
-    public class JsonDocument : Document
+    public class Json : Document
     {
         public override string Name { get; protected set; }
 

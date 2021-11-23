@@ -1,8 +1,8 @@
 ﻿using System;
 
-namespace Task1
+namespace laba6_1
 {
-    public class XmlDocument : Document
+    public class Xml : Document
     {
         public override string Name { get; protected set; }
 

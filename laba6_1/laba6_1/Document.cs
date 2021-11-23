@@ -1,4 +1,4 @@
-﻿namespace Task1
+﻿namespace laba6_1
 {
     public abstract class Document
     {
